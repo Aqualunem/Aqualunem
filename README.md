@@ -1,13 +1,13 @@
 <p align="center">
 <a href="https://korsinemi.link" title="My fluff web">
     <img src="https://raw.githubusercontent.com/Korsinemi/Korsinemi/refs/heads/main/img/korsinemi_banner.png" href="https://korsinemi.link">
-    </a>
-<a href="https://korsinemi.link">
-       <img src="https://readme-typing-svg.demolab.com?font=Edu+VIC+WA+NT+Beginner&duration=7000&pause=3000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=true&width=600&lines=Another+silly+furry+coding+stuff%2C+making+fluffy+ideas+and+empowering+the+furrture" alt="Typing Kori" />
+</a>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=600&size=30&pause=1000&color=1CD1B0&center=true&repeat=false&width=620&height=40&lines=Artist+-+Programmer+-+Enginner+-+Furry" alt="Typing SVG" />
 </a>
     <br>
-    <a href="https://korsinemi.link">
-        <img src="https://img.shields.io/static/v1?label=&message=KORSINEMI+WEB&color=512980&style=for-the-badge&logo=apifox&logoColor=white" alt="UwU"/>
+    <a href="https://aqualunem.studio">
+        <img src="https://img.shields.io/static/v1?label=&message=AQUALUNEM+WEB&color=1cd1b0&style=for-the-badge&logo=furrynetwork&logoColor=white" alt="UwU"/>
     </a>
 </p>
 
@@ -32,23 +32,23 @@
 ## » 𝗦𝘁𝗮𝗱𝗶𝘀𝘁𝗶𝗰𝘀 - 𝗘𝘀𝘁𝗮𝗱𝗶𝘀𝘁𝗶𝗰𝗮𝘀
 
 <p align="center">
-        <img width="470" height="195" src="https://github-readme-stats.vercel.app/api?username=Korsinemi&theme=midnight-purple&show_icons=true&hide_border=true&locale=es&custom_title=💜%20Stadistics" alt="Estadísticas de GitHub" href="https://korsinemi.link"/>
-        <img width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korsinemi&theme=midnight-purple&layout=compact&hide_border=true&custom_title=💜%20Langs" alt="Lenguajes más utilizados" href="https://korsinemi.link"/>
+        <img width="470" height="195" src="https://github-readme-stats.vercel.app/api?username=Aqualunem&theme=gotham&show_icons=true&hide_border=true&locale=es&custom_title=💜%20Stadistics" alt="Estadísticas de GitHub" href="https://korsinemi.link"/>
+        <img width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqualunem&theme=gotham&layout=compact&hide_border=true&custom_title=💜%20Langs" alt="Lenguajes más utilizados" href="https://korsinemi.link"/>
 </p>
 
 ## » 𝗣𝗿𝗼𝘆𝗲𝗰𝘁𝗼𝘀 - 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-- 🌐 **[Korsinemi Development](https://korsinemi.link/):** Mi sitio web principal.
-- 📚 **[Korsinemi Docs](https://docs.korsinemi.link/begin/):** Las documentaciones de mis proyectos.
+- 🌐 **[Aqualunem Studio](https://aqualunem.studio/):** Mi sitio web principal.
+- 📚 **[Aqualunem Docs](https://docs.aqualunem.studio/begin/):** Las documentaciones de mis proyectos.
 ------------------------
-- 🐾 **[PeludAPI](https://peludapi.korsinemi.link/):** Una poderosa API furry.
-- ⛏️ **[Korsicraft](https://craft.korsinemi.link/):** Mi paquete de mods para Minecraft.
-- 👕 **[4DSkins](https://craft.korsinemi.link/4d-skins):** Skins 4D para Minecraft.
-- 🤖 **[Pris (Discord Bot)](https://pris.korsinemi.link/):** Mi bot de Discord.
-- 🎮 **[Furventura](https://furventura.korsinemi.link/):** Un juego RPG de animalitos (Próximamente).
+- 🐾 **[PeludAPI](https://peludapi.aqualunem.studio/):** Una poderosa API furry.
+- ⛏️ **[Korsicraft](https://craft.aqualunem.studio/):** Mi paquete de mods para Minecraft.
+- 👕 **[4DSkins](https://craft.aqualunem.studio/4d-skins):** Skins 4D para Minecraft.
+- 🤖 **[Pris (Discord Bot)](https://pris.aqualunem.studio/):** Mi bot de Discord.
+- 🎮 **[Furventura](https://furventura.aqualunem.studio/):** Un juego RPG de animalitos (Próximamente).
 - 🎨 **[Purrteractive](https://purrteractive.tech):** Estudio de desarrollo (Próximamente)
 ### »» Proyectos descartados/archivados
-- 🎯 **[FurX (ex. UGCatcher)](https://github.com/Korsinemi/FurX-Reborn):** El mejor sniper de Roblox, mejorado y relanzado.
+- 🎯 **[FurX (ex. UGCatcher)](https://github.com/Aqualunem/FurX-Reborn):** El mejor sniper de Roblox, mejorado y relanzado.
 
 ## » 𝗧𝗼𝗼𝗹𝘀 - 𝗛𝗲𝗿𝗿𝗮𝗺𝗶𝗲𝗻𝘁𝗮𝘀
 
@@ -60,7 +60,7 @@
     <a href="https://www.typescriptlang.org"><img align="center" alt="TS" width="36px" src="https://i.imgur.com/vSgFULR.png" /></a>
     <a href="https://nodejs.org"><img align="center" alt="Node.js" width="36px" src="https://nodejs.org/static/images/favicons/favicon.png" /></a>
     <a href="https://www.mongodb.com"><img align="center" alt="MongoDB" width="36px" src="https://www.mongodb.com/favicon.ico" /></a>
-    <a href="https://firebase.google.com"><img align="center" alt="Firebase" width="36px" src="https://www.gstatic.com/devrel-devsite/prod/vdf5af65c45d9e2fdd493c581ff01cb1d11a21b4420a9fcc957400a26863da9d2/firebase/images/touchicon-180.png" /></a>
+    <a href="https://firebase.google.com"><img align="center" alt="Firebase" width="36px" src="https://www.gstatic.com/devrel-devsite/prod/v34fe5d0a1df120a3c24e6d73e25d1d8607836b03710a3ad508fa501ece2bdcb3/firebase/images/favicon.png" /></a>
     <a href="https://www.adobe.com/products/photoshop"><img align="center" alt="Photoshop" width="36px" src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-64.svg" /></a>
     <img align="center" alt="HTML5" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />
     <img align="center" alt="CSS3" width="36px" src="https://www.svgrepo.com/show/349330/css3.svg" />
@@ -69,7 +69,7 @@
 
 ```js
 const myProfile = {
-    name: "Korsinemi",
+    name: "Aqualunem",
     role: "FULLSTACK PROGRAMMER, SOFTWARE ENGINEER & AI Manager",
     interests: [
         "Web Development",
@@ -77,7 +77,7 @@ const myProfile = {
         "Cloud Computing",
         "Automation",
         "Open Source",
-        "Furry Fandom" // ¡Agregado!
+        "Furry Fandom"
     ],
     favoriteTools: [
         "GitHub Pro",
@@ -89,8 +89,8 @@ const myProfile = {
     currentStatus: "Systems Assistant in Technical Support at Microsoft.",
     currentlyLearning: "Exploring the world self-taught.",
     contact: {
-        github: "https://github.com/Korsinemi", // Remember to replace with your actual GitHub username if different
-        linkedin: "https://www.linkedin.com/in/[YourLinkedInProfile]" // Optional, replace [YourLinkedInProfile]
+        github: "https://github.com/Korsinemi",
+        web: "https://aqualunem.studio"
     },
     greet: function() {
         return `Hello! I'm ${this.name}. I'm passionate about ${this.interests[0]} and excited for the technological future.`;
@@ -103,7 +103,7 @@ console.log("Let's connect and build amazing things!");
 
 function decorateProfile() {
   console.log("Cute Image!");
-  console.log("https://i.korsinemi.link/uwu.gif)
+  console.log("https://stash.aqualunem.studio/uwu.gif)
 }
 ```
         
@@ -113,14 +113,14 @@ function decorateProfile() {
 
 <p align="center">
     <b>
-    💜 Korsinemi 💜<br/>
+    💚 Aqualunem 💙<br/>
  A Celebration of Furry Passion | © 2016 - 2025<br/>
                  All Rights Reserved
 
 </p>
 
 <p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=Korsinemi&style=for-the-badge&color=512980&label=FURRIES" alt="Visits"/>
+  <img src="https://komarev.com/ghpvc/?username=Korsinemi&style=for-the-badge&color=1cd1b0&label=FURRIES" alt="Visits"/>
 </p>
         
 <!--
