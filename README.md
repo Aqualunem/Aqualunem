@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://korsinemi.link" title="My fluff web">
-    <img src="https://raw.githubusercontent.com/Korsinemi/Korsinemi/refs/heads/main/img/korsinemi_banner.png" href="https://korsinemi.link">
+<a href="https://aqualunem.studio" title="My fluff web">
+    <img src="https://raw.githubusercontent.com/Aqualunem/Aqualunem/refs/heads/main/img/Aqualunem-BannerShort.png" href="https://aqualunem.studio">
 </a>
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=600&size=30&pause=1000&color=1CD1B0&center=true&repeat=false&width=620&height=40&lines=Artist+-+Programmer+-+Enginner+-+Furry" alt="Typing SVG" />
