@@ -40,7 +40,7 @@
 
 - 🌐 **[Aqualunem Studio](https://aqualunem.studio/):** Mi sitio web principal.
 - 📚 **[Aqualunem Docs](https://docs.aqualunem.studio/index/):** Las documentaciones de mis proyectos.
-- 💧 **[Aqualunem CDN](https://stuff.aqualunem.studio/):**Mi alojamiento personal de archvios para mis proyectos.
+- 💧 **[Aqualunem CDN](https://stuff.aqualunem.studio/):** Mi alojamiento personal de archvios para mis proyectos.
 ------------------------
 - 🐾 **[PeludAPI](https://peludapi.aqualunem.studio/):** Una poderosa API furry.
 - ⛏️ **[Korsicraft](https://craft.aqualunem.studio/):** Mi paquete de mods para Minecraft.
