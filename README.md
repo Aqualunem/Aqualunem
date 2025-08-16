@@ -39,12 +39,13 @@
 ## » 𝗣𝗿𝗼𝘆𝗲𝗰𝘁𝗼𝘀 - 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 - 🌐 **[Aqualunem Studio](https://aqualunem.studio/):** Mi sitio web principal.
-- 📚 **[Aqualunem Docs](https://docs.aqualunem.studio/begin/):** Las documentaciones de mis proyectos.
+- 📚 **[Aqualunem Docs](https://docs.aqualunem.studio/index/):** Las documentaciones de mis proyectos.
+- 💧 **[Aqualunem CDN](https://stuff.aqualunem.studio/):**Mi alojamiento personal de archvios para mis proyectos.
 ------------------------
 - 🐾 **[PeludAPI](https://peludapi.aqualunem.studio/):** Una poderosa API furry.
 - ⛏️ **[Korsicraft](https://craft.aqualunem.studio/):** Mi paquete de mods para Minecraft.
 - 👕 **[4DSkins](https://craft.aqualunem.studio/4d-skins):** Skins 4D para Minecraft.
-- 🤖 **[Pris (Discord Bot)](https://pris.aqualunem.studio/):** Mi bot de Discord.
+- 🤖 **[M01k (Discord Bot)](https://moik.aqualunem.studio/):** Mi bot de Discord.
 - 🎮 **[Furventura](https://furventura.aqualunem.studio/):** Un juego RPG de animalitos (Próximamente).
 - 🎨 **[Purrteractive](https://purrteractive.tech):** Estudio de desarrollo (Próximamente)
 ### »» Proyectos descartados/archivados
